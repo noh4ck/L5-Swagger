@@ -11,6 +11,10 @@ Swagger 2.0 for Laravel >=5.1
 
 This package is a wrapper of [Swagger-php](https://github.com/zircote/swagger-php) and [swagger-ui](https://github.com/swagger-api/swagger-ui) adapted to work with Laravel 5.
 
+Fork changes:
+=============
+This fork uses a different theme called [Swagger UI responsive theme](https://github.com/noh4ck/swagger-ui)
+
 Installation
 ============
 
